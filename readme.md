@@ -1,4 +1,4 @@
-# Awesome Blog
+# Awesome Blogs
 
 A curated list of awesome blogs covering various topics.
 
